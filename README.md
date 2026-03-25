@@ -1,2 +1,2 @@
-## 👋
-i like to code for fun
+# 👋
+I like to code for fun
